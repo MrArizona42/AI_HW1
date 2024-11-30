@@ -11,18 +11,11 @@ decorator
 executing
 fonttools
 idna
-ipykernel
-ipython
-jedi
 Jinja2
 joblib
-jupyter_client
-jupyter_core
 kiwisolver
 MarkupSafe
 matplotlib
-matplotlib-inline
-nest-asyncio
 numpy
 opencv-python
 packaging
@@ -38,8 +31,6 @@ pyparsing
 python-dateutil
 python-dotenv
 pytz
-pywin32
-pyzmq
 requests
 scikit-learn
 scipy
@@ -47,9 +38,7 @@ seaborn
 six
 stack-data
 threadpoolctl
-tornado
 tqdm
-traitlets
 tzdata
 tzlocal
 urllib3
