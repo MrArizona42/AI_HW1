@@ -44,4 +44,4 @@ tzlocal
 urllib3
 wcwidth
 uvicorn
-
+fastapi
