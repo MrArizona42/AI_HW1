@@ -43,3 +43,5 @@ tzdata
 tzlocal
 urllib3
 wcwidth
+uvicorn
+
